@@ -35,7 +35,8 @@
     "karma-jasmine": "^1.1.0",
     "karma-nativescript-launcher": "^0.4.0",
     "tns-core-modules": "^2.5.0",
-    "tns-platform-declarations": "^2.5.0"
+    "tns-platform-declarations": "^2.5.0",
+    "nativescript-unit-test-runner": "^0.3.4"
   },
   "dependencies": {
     "buffer": "^5.0.6"
